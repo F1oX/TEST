@@ -58,7 +58,6 @@ p {
     color: red;
     text-decoration: none;
     opacity: .75;
-    transition: opacity .1s linear;
 
 }
 .nav__link:first-child {
