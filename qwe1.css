@@ -55,7 +55,7 @@ p {
 }
 .nav__link {
     margin-left: 50px;
-    color: white;
+    color: red;
     text-decoration: none;
     opacity: .75;
     transition: opacity .1s linear;
